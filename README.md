@@ -26,7 +26,7 @@ A sleek and modern **Live Weather App** built using **Android Jetpack Compose**.
 
 | Current Weather  | Search City | Detailed Weather |
 |------------------|-------------|-------------------|
-| ![Current Weather](app/src/main/res/drawable/Screenshot_1736769686.png) | ![Search City](app/src/main/res/drawable/Screenshot_1736770550.png) | ![Detailed Weather](app/src/main/res/drawable/Screenshot_1736770573.png) |
+| ![Current Weather](app/src/main/res/drawable/img1.png) | ![Search City](app/src/main/res/drawable/img2.png) | ![Detailed Weather](app/src/main/res/drawable/img3.png) |
 
 ## Installation
 
