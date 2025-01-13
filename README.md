@@ -26,28 +26,22 @@ A sleek and modern **Live Weather App** built using **Android Jetpack Compose**.
 
 | Current Weather  | Search City | Detailed Weather |
 |------------------|-------------|-------------------|
-| ![Current Weather](images/current_weather.png) | ![Search City](images/search_city.png) | ![Detailed Weather](images/detailed_weather.png) |
-
-### Additional Previews
-
-| Day Mode | Night Mode |
-|----------|------------|
-| ![Day Mode](images/day_mode.png) | ![Night Mode](images/night_mode.png) |
+| ![Current Weather](app/src/main/res/drawable/Screenshot_1736769686.png) | ![Search City](app/src/main/res/drawable/Screenshot_1736770550.png) | ![Detailed Weather](app/src/main/res/drawable/Screenshot_1736770573.png) |
 
 ## Installation
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/live-weather-app.git
+   git clone https://github.com/dharmendra841434/Android-weather-app.git
    ```
 
 2. Open the project in Android Studio.
 
-3. Add your OpenWeatherMap API key:
-   - Go to `local.properties` in the root of your project.
+3. Add your weatherapi API key:
+   - Go to `WeatherViewModal` file of your project.
    - Add the following line:
      ```properties
-     WEATHER_API_KEY=your_api_key_here
+     change api key with yours
      ```
 
 4. Build and run the project on an emulator or physical device.
